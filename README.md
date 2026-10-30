@@ -12,7 +12,9 @@ Light Off is a minimalist Chrome extension that lets you instantly adjust the br
 
 ## ✨ Features
 
-- 🎚️ Single Slider Control — Adjust brightness from 100% down to 10% with a simple range input
+- 🎚️ Slider Control — Adjust brightness from 100% down to 0% with a simple range input
+
+- 🔘 Preset Switches — Switch brightness between 25% or 50% or 75% just by click on presets
 
 - 🔄 Quick Reset — Instantly restore full brightness with one click, no need to drag the slider back
 
